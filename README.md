@@ -69,5 +69,3 @@ It monitors **environmental and water-related parameters** such as **temperature
 5. Relay switches the pump ON or OFF accordingly.
 
 ---
-
-## 📁 Project Structure
